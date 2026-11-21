@@ -1,0 +1,23 @@
+product_id,product_name,category,unit_cost,selling_price,stock_quantity
+PROD-001,UltraWide 34-inch Monitor,Electronics,320.0,549.99,120
+PROD-002,Mechanical Ergonomic Keyboard,Electronics,65.0,129.99,250
+PROD-003,Noise-Cancelling Headphones Pro,Electronics,110.0,249.99,180
+PROD-004,USB-C Quad Hub Station,Electronics,28.0,69.99,400
+PROD-005,4K Streaming Webcam Pro,Electronics,45.0,99.99,210
+PROD-006,Smart Wireless Trackpad,Electronics,40.0,89.99,150
+PROD-007,Compact Studio Microphone,Electronics,55.0,119.99,190
+PROD-008,Dual-Arm Aluminum Monitor Mount,Electronics,35.0,79.99,310
+PROD-009,Merino Wool Tech Hoodie,Apparel,35.0,98.0,450
+PROD-010,Performance Chino Pants,Apparel,28.0,78.0,500
+PROD-011,Everyday Seamless Crewneck,Apparel,14.0,38.0,800
+PROD-012,Water-Resistant Commuter Jacket,Apparel,55.0,148.0,220
+PROD-013,Breathable Athletic Polo,Apparel,18.0,48.0,600
+PROD-014,Tailored Stretch Blazer,Apparel,70.0,188.0,160
+PROD-015,Merino Wool Beanie,Apparel,12.0,32.0,400
+PROD-016,Organic Cotton Essential Tee 3-Pack,Apparel,18.0,48.0,900
+PROD-017,Ergonomic Memory Foam Cushion,Home Goods,18.0,45.0,350
+PROD-018,Minimalist Ceramic Desk Lamp,Home Goods,22.0,58.0,280
+PROD-019,Aroma Ultrasonic Diffuser,Home Goods,16.0,39.0,410
+PROD-020,Double-Walled Steel Tumbler,Home Goods,9.0,24.0,650
+PROD-021,Weighted Bamboo Sleep Blanket,Home Goods,45.0,115.0,190
+PROD-022,Solid Walnut Monitor Riser,Home Goods,32.0,79.0,220

@@ -1,0 +1,601 @@
+mention_id,platform,mention_date,topic,sentiment,text_excerpt,campaign_id
+MENTION-00001,YouTube,2026-10-02,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00002,YouTube,2026-10-01,Shipping Speed,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00003,Instagram,2026-10-30,Pricing,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00004,Instagram,2026-11-02,Packaging,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-004
+MENTION-00005,X,2026-11-13,Packaging,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00006,X,2026-10-08,Shipping Speed,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-007
+MENTION-00007,Instagram,2026-11-05,Product Quality,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00008,X,2026-11-13,Customer Support,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-003
+MENTION-00009,LinkedIn,2026-11-11,Website Experience,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-007
+MENTION-00010,TikTok,2026-10-12,Product Quality,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00011,X,2026-10-25,Website Experience,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00012,YouTube,2026-10-17,Website Experience,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00013,LinkedIn,2026-11-13,Shipping Speed,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00014,TikTok,2026-10-24,Product Quality,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00015,TikTok,2026-10-20,Pricing,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00016,TikTok,2026-10-14,Customer Support,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00017,TikTok,2026-11-20,Customer Support,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00018,X,2026-10-15,Shipping Speed,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00019,Instagram,2026-10-15,Product Quality,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00020,Instagram,2026-11-08,Product Quality,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-002
+MENTION-00021,Instagram,2026-10-24,Pricing,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00022,X,2026-11-15,Pricing,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-010
+MENTION-00023,TikTok,2026-10-22,Customer Support,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-001
+MENTION-00024,LinkedIn,2026-10-08,Pricing,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00025,X,2026-11-21,Pricing,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,CAMP-004
+MENTION-00026,LinkedIn,2026-11-05,Customer Support,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",CAMP-002
+MENTION-00027,YouTube,2026-10-29,Customer Support,Neutral,"Arrived on the scheduled date, fits true to size.",CAMP-006
+MENTION-00028,X,2026-11-18,Pricing,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00029,YouTube,2026-10-10,Website Experience,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00030,YouTube,2026-10-15,Product Quality,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00031,LinkedIn,2026-11-17,Customer Support,Negative,Why is the West Coast warehouse always out of stock on flagships?,CAMP-006
+MENTION-00032,YouTube,2026-10-05,Product Quality,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-009
+MENTION-00033,Instagram,2026-10-30,Customer Support,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00034,X,2026-10-31,Website Experience,Neutral,Product works as described on the website.,
+MENTION-00035,TikTok,2026-10-04,Product Quality,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00036,Instagram,2026-11-03,Shipping Speed,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00037,X,2026-10-20,Customer Support,Neutral,"Arrived on the scheduled date, fits true to size.",
+MENTION-00038,X,2026-10-11,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00039,TikTok,2026-10-26,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00040,YouTube,2026-10-03,Pricing,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-011
+MENTION-00041,TikTok,2026-10-25,Shipping Speed,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00042,TikTok,2026-11-15,Customer Support,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00043,LinkedIn,2026-10-09,Packaging,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00044,YouTube,2026-11-02,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00045,X,2026-11-03,Pricing,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-012
+MENTION-00046,LinkedIn,2026-10-22,Shipping Speed,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00047,X,2026-11-13,Packaging,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00048,LinkedIn,2026-10-06,Packaging,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00049,Instagram,2026-11-19,Customer Support,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00050,YouTube,2026-10-04,Packaging,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00051,LinkedIn,2026-10-22,Customer Support,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00052,TikTok,2026-10-02,Packaging,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00053,TikTok,2026-10-26,Pricing,Neutral,"Arrived on the scheduled date, fits true to size.",CAMP-003
+MENTION-00054,TikTok,2026-10-12,Pricing,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00055,YouTube,2026-10-24,Pricing,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-003
+MENTION-00056,LinkedIn,2026-10-04,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00057,LinkedIn,2026-10-19,Packaging,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-006
+MENTION-00058,Instagram,2026-10-12,Pricing,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,CAMP-003
+MENTION-00059,Instagram,2026-10-12,Shipping Speed,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",CAMP-005
+MENTION-00060,YouTube,2026-10-12,Customer Support,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-009
+MENTION-00061,Instagram,2026-10-02,Pricing,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00062,Instagram,2026-11-21,Pricing,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00063,LinkedIn,2026-10-03,Website Experience,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-004
+MENTION-00064,TikTok,2026-10-14,Pricing,Neutral,"Arrived on the scheduled date, fits true to size.",CAMP-005
+MENTION-00065,X,2026-10-25,Shipping Speed,Negative,Why is the West Coast warehouse always out of stock on flagships?,CAMP-005
+MENTION-00066,YouTube,2026-11-20,Pricing,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00067,Instagram,2026-11-06,Website Experience,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-003
+MENTION-00068,X,2026-10-23,Website Experience,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-012
+MENTION-00069,TikTok,2026-11-08,Website Experience,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00070,YouTube,2026-10-11,Shipping Speed,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-010
+MENTION-00071,YouTube,2026-10-08,Shipping Speed,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-010
+MENTION-00072,Instagram,2026-10-28,Shipping Speed,Neutral,Product works as described on the website.,
+MENTION-00073,LinkedIn,2026-11-11,Customer Support,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00074,X,2026-10-14,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00075,Instagram,2026-10-29,Packaging,Negative,Why is the West Coast warehouse always out of stock on flagships?,CAMP-001
+MENTION-00076,YouTube,2026-10-27,Customer Support,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",CAMP-009
+MENTION-00077,Instagram,2026-10-01,Packaging,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00078,TikTok,2026-10-11,Product Quality,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00079,X,2026-10-16,Product Quality,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00080,X,2026-10-03,Shipping Speed,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-004
+MENTION-00081,TikTok,2026-10-16,Shipping Speed,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-002
+MENTION-00082,TikTok,2026-10-03,Customer Support,Negative,Waited 45 minutes on support chat just to ask about a backorder.,CAMP-001
+MENTION-00083,X,2026-10-08,Website Experience,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-012
+MENTION-00084,Instagram,2026-11-13,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00085,TikTok,2026-10-19,Packaging,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-003
+MENTION-00086,TikTok,2026-10-19,Pricing,Negative,Why is the West Coast warehouse always out of stock on flagships?,CAMP-009
+MENTION-00087,LinkedIn,2026-10-02,Packaging,Neutral,"Arrived on the scheduled date, fits true to size.",CAMP-005
+MENTION-00088,LinkedIn,2026-11-18,Product Quality,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-006
+MENTION-00089,X,2026-11-18,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00090,Instagram,2026-10-09,Product Quality,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00091,YouTube,2026-10-05,Pricing,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-002
+MENTION-00092,YouTube,2026-10-01,Shipping Speed,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00093,TikTok,2026-11-06,Pricing,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00094,YouTube,2026-10-12,Pricing,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-006
+MENTION-00095,YouTube,2026-10-15,Shipping Speed,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00096,X,2026-10-10,Website Experience,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00097,Instagram,2026-10-10,Packaging,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00098,Instagram,2026-10-15,Product Quality,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00099,LinkedIn,2026-11-04,Customer Support,Negative,Waited 45 minutes on support chat just to ask about a backorder.,CAMP-003
+MENTION-00100,Instagram,2026-11-15,Customer Support,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00101,Instagram,2026-10-21,Customer Support,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-011
+MENTION-00102,LinkedIn,2026-10-07,Shipping Speed,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00103,YouTube,2026-10-29,Packaging,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-010
+MENTION-00104,LinkedIn,2026-10-09,Website Experience,Neutral,"Arrived on the scheduled date, fits true to size.",CAMP-002
+MENTION-00105,X,2026-11-02,Shipping Speed,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00106,LinkedIn,2026-11-13,Website Experience,Neutral,"Arrived on the scheduled date, fits true to size.",
+MENTION-00107,LinkedIn,2026-10-01,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00108,YouTube,2026-11-10,Shipping Speed,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00109,X,2026-11-07,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00110,Instagram,2026-11-09,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00111,LinkedIn,2026-10-28,Product Quality,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00112,LinkedIn,2026-11-20,Website Experience,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00113,TikTok,2026-11-04,Customer Support,Neutral,Product works as described on the website.,CAMP-003
+MENTION-00114,X,2026-10-02,Customer Support,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00115,TikTok,2026-11-19,Customer Support,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00116,LinkedIn,2026-11-10,Shipping Speed,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00117,TikTok,2026-10-12,Customer Support,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00118,YouTube,2026-10-23,Shipping Speed,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00119,YouTube,2026-11-05,Shipping Speed,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00120,Instagram,2026-11-11,Product Quality,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-005
+MENTION-00121,LinkedIn,2026-10-06,Packaging,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-001
+MENTION-00122,YouTube,2026-11-08,Pricing,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-007
+MENTION-00123,Instagram,2026-10-26,Customer Support,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00124,X,2026-10-04,Customer Support,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-005
+MENTION-00125,Instagram,2026-11-11,Product Quality,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00126,X,2026-10-06,Shipping Speed,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00127,TikTok,2026-10-12,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-010
+MENTION-00128,YouTube,2026-10-15,Product Quality,Neutral,Product works as described on the website.,
+MENTION-00129,TikTok,2026-11-03,Pricing,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-005
+MENTION-00130,Instagram,2026-10-26,Website Experience,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00131,TikTok,2026-10-28,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00132,Instagram,2026-10-23,Product Quality,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00133,LinkedIn,2026-10-13,Pricing,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00134,Instagram,2026-10-15,Shipping Speed,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00135,Instagram,2026-10-08,Website Experience,Negative,Waited 45 minutes on support chat just to ask about a backorder.,CAMP-002
+MENTION-00136,LinkedIn,2026-10-28,Shipping Speed,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00137,LinkedIn,2026-10-18,Product Quality,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00138,YouTube,2026-10-30,Website Experience,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00139,Instagram,2026-10-27,Pricing,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00140,LinkedIn,2026-11-08,Shipping Speed,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00141,Instagram,2026-10-28,Pricing,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-009
+MENTION-00142,Instagram,2026-10-29,Product Quality,Neutral,Product works as described on the website.,
+MENTION-00143,TikTok,2026-11-06,Shipping Speed,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-003
+MENTION-00144,X,2026-10-19,Shipping Speed,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00145,YouTube,2026-10-05,Shipping Speed,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00146,TikTok,2026-10-22,Packaging,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00147,Instagram,2026-11-18,Shipping Speed,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00148,TikTok,2026-10-24,Pricing,Neutral,"Arrived on the scheduled date, fits true to size.",
+MENTION-00149,Instagram,2026-11-06,Customer Support,Neutral,"Arrived on the scheduled date, fits true to size.",CAMP-007
+MENTION-00150,LinkedIn,2026-11-16,Product Quality,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00151,X,2026-10-15,Customer Support,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00152,TikTok,2026-10-18,Product Quality,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-010
+MENTION-00153,Instagram,2026-11-08,Product Quality,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00154,LinkedIn,2026-10-05,Website Experience,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00155,YouTube,2026-11-11,Customer Support,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00156,LinkedIn,2026-11-03,Customer Support,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00157,Instagram,2026-10-25,Packaging,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00158,YouTube,2026-10-17,Pricing,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00159,X,2026-10-26,Product Quality,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00160,X,2026-10-06,Customer Support,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00161,YouTube,2026-10-10,Pricing,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00162,Instagram,2026-10-08,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00163,X,2026-11-11,Customer Support,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00164,Instagram,2026-10-28,Customer Support,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00165,LinkedIn,2026-10-29,Pricing,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-007
+MENTION-00166,YouTube,2026-10-31,Website Experience,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00167,Instagram,2026-11-20,Packaging,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00168,YouTube,2026-10-27,Pricing,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00169,Instagram,2026-11-09,Packaging,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00170,X,2026-10-14,Customer Support,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00171,TikTok,2026-11-18,Packaging,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00172,X,2026-10-11,Website Experience,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00173,Instagram,2026-10-26,Website Experience,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00174,LinkedIn,2026-11-12,Customer Support,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,CAMP-011
+MENTION-00175,YouTube,2026-11-05,Website Experience,Neutral,Product works as described on the website.,
+MENTION-00176,Instagram,2026-10-29,Pricing,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00177,Instagram,2026-11-18,Pricing,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00178,X,2026-11-21,Packaging,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00179,X,2026-10-06,Packaging,Negative,Why is the West Coast warehouse always out of stock on flagships?,CAMP-003
+MENTION-00180,LinkedIn,2026-10-27,Shipping Speed,Neutral,"Arrived on the scheduled date, fits true to size.",
+MENTION-00181,Instagram,2026-10-30,Packaging,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00182,YouTube,2026-10-11,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-012
+MENTION-00183,X,2026-11-07,Website Experience,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00184,TikTok,2026-10-06,Customer Support,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00185,LinkedIn,2026-10-08,Customer Support,Neutral,Product works as described on the website.,
+MENTION-00186,X,2026-10-25,Shipping Speed,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00187,TikTok,2026-10-29,Product Quality,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00188,TikTok,2026-10-18,Packaging,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00189,Instagram,2026-10-16,Website Experience,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00190,Instagram,2026-11-04,Pricing,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00191,LinkedIn,2026-10-25,Website Experience,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-011
+MENTION-00192,X,2026-11-03,Product Quality,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00193,TikTok,2026-11-07,Website Experience,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-008
+MENTION-00194,Instagram,2026-11-19,Product Quality,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00195,LinkedIn,2026-10-27,Product Quality,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-009
+MENTION-00196,X,2026-11-10,Customer Support,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,CAMP-003
+MENTION-00197,TikTok,2026-11-03,Packaging,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00198,LinkedIn,2026-11-19,Customer Support,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00199,Instagram,2026-10-02,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00200,X,2026-10-22,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00201,Instagram,2026-10-06,Pricing,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00202,Instagram,2026-11-13,Shipping Speed,Negative,Why is the West Coast warehouse always out of stock on flagships?,CAMP-008
+MENTION-00203,YouTube,2026-10-26,Shipping Speed,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00204,TikTok,2026-10-02,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00205,TikTok,2026-11-21,Pricing,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-004
+MENTION-00206,X,2026-10-21,Pricing,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00207,X,2026-10-22,Website Experience,Neutral,Product works as described on the website.,
+MENTION-00208,TikTok,2026-10-06,Product Quality,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00209,TikTok,2026-11-12,Shipping Speed,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00210,X,2026-10-02,Product Quality,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00211,LinkedIn,2026-10-30,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00212,YouTube,2026-11-06,Pricing,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",CAMP-007
+MENTION-00213,YouTube,2026-11-11,Shipping Speed,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00214,LinkedIn,2026-10-09,Product Quality,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00215,LinkedIn,2026-10-28,Packaging,Neutral,Product works as described on the website.,
+MENTION-00216,LinkedIn,2026-11-19,Website Experience,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00217,LinkedIn,2026-11-14,Customer Support,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00218,YouTube,2026-11-06,Pricing,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-012
+MENTION-00219,YouTube,2026-10-26,Shipping Speed,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",CAMP-001
+MENTION-00220,YouTube,2026-10-25,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00221,LinkedIn,2026-10-27,Packaging,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00222,YouTube,2026-11-06,Website Experience,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00223,TikTok,2026-10-17,Packaging,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-007
+MENTION-00224,X,2026-11-06,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00225,X,2026-10-30,Packaging,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00226,X,2026-10-25,Packaging,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00227,X,2026-11-17,Customer Support,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00228,YouTube,2026-11-17,Customer Support,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00229,LinkedIn,2026-10-12,Pricing,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-009
+MENTION-00230,Instagram,2026-10-12,Packaging,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00231,Instagram,2026-10-16,Customer Support,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00232,X,2026-11-18,Product Quality,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00233,Instagram,2026-10-02,Product Quality,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00234,YouTube,2026-11-12,Customer Support,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00235,TikTok,2026-11-12,Product Quality,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",CAMP-002
+MENTION-00236,TikTok,2026-10-02,Packaging,Neutral,Product works as described on the website.,CAMP-011
+MENTION-00237,YouTube,2026-11-04,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00238,LinkedIn,2026-11-11,Shipping Speed,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",CAMP-001
+MENTION-00239,X,2026-10-22,Website Experience,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00240,LinkedIn,2026-10-15,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00241,X,2026-10-28,Product Quality,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00242,YouTube,2026-11-09,Shipping Speed,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00243,YouTube,2026-10-24,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-011
+MENTION-00244,TikTok,2026-10-24,Website Experience,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00245,Instagram,2026-10-27,Packaging,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00246,LinkedIn,2026-10-10,Product Quality,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00247,TikTok,2026-10-08,Customer Support,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00248,X,2026-10-31,Customer Support,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,CAMP-008
+MENTION-00249,YouTube,2026-11-01,Shipping Speed,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00250,Instagram,2026-10-23,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00251,Instagram,2026-10-12,Shipping Speed,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00252,YouTube,2026-11-03,Shipping Speed,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-012
+MENTION-00253,LinkedIn,2026-10-12,Customer Support,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-010
+MENTION-00254,LinkedIn,2026-10-01,Pricing,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00255,YouTube,2026-11-04,Shipping Speed,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00256,YouTube,2026-10-01,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-008
+MENTION-00257,Instagram,2026-11-10,Shipping Speed,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00258,TikTok,2026-10-16,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-007
+MENTION-00259,LinkedIn,2026-10-13,Product Quality,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00260,X,2026-10-23,Product Quality,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00261,Instagram,2026-11-16,Customer Support,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00262,YouTube,2026-11-09,Website Experience,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00263,Instagram,2026-10-26,Website Experience,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-005
+MENTION-00264,X,2026-10-01,Shipping Speed,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00265,LinkedIn,2026-10-21,Product Quality,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00266,X,2026-10-16,Website Experience,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-009
+MENTION-00267,TikTok,2026-10-02,Packaging,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00268,Instagram,2026-11-17,Customer Support,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00269,Instagram,2026-11-14,Shipping Speed,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00270,X,2026-10-11,Website Experience,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-007
+MENTION-00271,X,2026-11-15,Shipping Speed,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00272,TikTok,2026-10-09,Product Quality,Negative,Why is the West Coast warehouse always out of stock on flagships?,CAMP-001
+MENTION-00273,X,2026-11-02,Product Quality,Neutral,Product works as described on the website.,
+MENTION-00274,X,2026-11-02,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00275,Instagram,2026-10-03,Packaging,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00276,LinkedIn,2026-11-16,Shipping Speed,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00277,Instagram,2026-10-25,Product Quality,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00278,Instagram,2026-11-05,Customer Support,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-011
+MENTION-00279,Instagram,2026-10-08,Packaging,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",CAMP-008
+MENTION-00280,TikTok,2026-11-21,Shipping Speed,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00281,Instagram,2026-10-31,Pricing,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00282,LinkedIn,2026-10-18,Pricing,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00283,TikTok,2026-11-13,Website Experience,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-012
+MENTION-00284,X,2026-10-05,Packaging,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00285,YouTube,2026-10-27,Pricing,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00286,TikTok,2026-10-12,Customer Support,Neutral,Product works as described on the website.,
+MENTION-00287,TikTok,2026-10-24,Product Quality,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-009
+MENTION-00288,Instagram,2026-10-20,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00289,TikTok,2026-10-01,Pricing,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-001
+MENTION-00290,TikTok,2026-10-26,Product Quality,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00291,LinkedIn,2026-10-01,Product Quality,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00292,YouTube,2026-10-06,Customer Support,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",CAMP-004
+MENTION-00293,Instagram,2026-11-07,Packaging,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-012
+MENTION-00294,Instagram,2026-10-16,Shipping Speed,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00295,TikTok,2026-10-22,Website Experience,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00296,YouTube,2026-11-06,Website Experience,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00297,TikTok,2026-11-06,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00298,Instagram,2026-10-28,Shipping Speed,Negative,Why is the West Coast warehouse always out of stock on flagships?,CAMP-008
+MENTION-00299,LinkedIn,2026-10-19,Customer Support,Neutral,"Arrived on the scheduled date, fits true to size.",CAMP-005
+MENTION-00300,X,2026-11-17,Customer Support,Negative,Waited 45 minutes on support chat just to ask about a backorder.,CAMP-002
+MENTION-00301,X,2026-10-08,Product Quality,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00302,YouTube,2026-11-08,Customer Support,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-005
+MENTION-00303,LinkedIn,2026-11-18,Pricing,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00304,LinkedIn,2026-11-08,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00305,YouTube,2026-10-21,Pricing,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-007
+MENTION-00306,LinkedIn,2026-10-09,Packaging,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-008
+MENTION-00307,TikTok,2026-11-10,Pricing,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-002
+MENTION-00308,X,2026-10-24,Customer Support,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00309,Instagram,2026-11-13,Customer Support,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00310,LinkedIn,2026-10-07,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00311,LinkedIn,2026-10-04,Shipping Speed,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-004
+MENTION-00312,LinkedIn,2026-11-07,Customer Support,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-007
+MENTION-00313,LinkedIn,2026-10-17,Shipping Speed,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00314,X,2026-10-30,Product Quality,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-012
+MENTION-00315,X,2026-10-06,Website Experience,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00316,LinkedIn,2026-11-17,Customer Support,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",CAMP-002
+MENTION-00317,TikTok,2026-11-05,Shipping Speed,Negative,Why is the West Coast warehouse always out of stock on flagships?,CAMP-011
+MENTION-00318,YouTube,2026-11-05,Pricing,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00319,Instagram,2026-10-30,Shipping Speed,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00320,Instagram,2026-11-21,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00321,X,2026-10-07,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00322,TikTok,2026-11-01,Shipping Speed,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00323,YouTube,2026-11-08,Shipping Speed,Neutral,"Arrived on the scheduled date, fits true to size.",CAMP-007
+MENTION-00324,LinkedIn,2026-10-19,Product Quality,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00325,TikTok,2026-10-21,Shipping Speed,Neutral,Product works as described on the website.,
+MENTION-00326,TikTok,2026-11-07,Customer Support,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00327,TikTok,2026-11-09,Shipping Speed,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00328,TikTok,2026-10-03,Shipping Speed,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00329,Instagram,2026-10-17,Product Quality,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-003
+MENTION-00330,LinkedIn,2026-11-03,Customer Support,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00331,X,2026-10-05,Packaging,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-011
+MENTION-00332,LinkedIn,2026-10-31,Customer Support,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00333,LinkedIn,2026-11-14,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-010
+MENTION-00334,X,2026-11-14,Shipping Speed,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",CAMP-012
+MENTION-00335,LinkedIn,2026-10-26,Shipping Speed,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-007
+MENTION-00336,TikTok,2026-11-10,Customer Support,Negative,Why is the West Coast warehouse always out of stock on flagships?,CAMP-002
+MENTION-00337,X,2026-10-27,Website Experience,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00338,YouTube,2026-10-20,Product Quality,Negative,Why is the West Coast warehouse always out of stock on flagships?,CAMP-009
+MENTION-00339,Instagram,2026-10-24,Shipping Speed,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-006
+MENTION-00340,X,2026-10-11,Packaging,Neutral,"Arrived on the scheduled date, fits true to size.",
+MENTION-00341,Instagram,2026-10-06,Website Experience,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00342,YouTube,2026-10-09,Customer Support,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00343,LinkedIn,2026-11-18,Packaging,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00344,X,2026-10-24,Product Quality,Neutral,Product works as described on the website.,
+MENTION-00345,Instagram,2026-10-01,Shipping Speed,Neutral,"Arrived on the scheduled date, fits true to size.",
+MENTION-00346,LinkedIn,2026-11-12,Website Experience,Neutral,Product works as described on the website.,
+MENTION-00347,LinkedIn,2026-11-20,Pricing,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00348,LinkedIn,2026-10-18,Packaging,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-009
+MENTION-00349,X,2026-10-14,Website Experience,Neutral,Product works as described on the website.,
+MENTION-00350,LinkedIn,2026-11-04,Packaging,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00351,X,2026-11-15,Customer Support,Negative,Waited 45 minutes on support chat just to ask about a backorder.,CAMP-005
+MENTION-00352,TikTok,2026-11-08,Shipping Speed,Neutral,Product works as described on the website.,CAMP-003
+MENTION-00353,TikTok,2026-10-09,Packaging,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-002
+MENTION-00354,X,2026-10-11,Packaging,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00355,LinkedIn,2026-10-07,Packaging,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-001
+MENTION-00356,Instagram,2026-10-01,Shipping Speed,Neutral,Product works as described on the website.,
+MENTION-00357,TikTok,2026-10-11,Shipping Speed,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00358,TikTok,2026-10-20,Website Experience,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00359,X,2026-11-17,Shipping Speed,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",CAMP-009
+MENTION-00360,X,2026-11-11,Customer Support,Negative,Waited 45 minutes on support chat just to ask about a backorder.,CAMP-009
+MENTION-00361,YouTube,2026-10-04,Website Experience,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00362,X,2026-10-17,Website Experience,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00363,X,2026-11-06,Packaging,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00364,LinkedIn,2026-11-18,Packaging,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00365,YouTube,2026-11-06,Shipping Speed,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00366,YouTube,2026-11-09,Shipping Speed,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-009
+MENTION-00367,X,2026-10-04,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00368,Instagram,2026-10-01,Pricing,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00369,X,2026-11-13,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00370,LinkedIn,2026-10-21,Customer Support,Negative,Waited 45 minutes on support chat just to ask about a backorder.,CAMP-003
+MENTION-00371,YouTube,2026-10-17,Pricing,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-009
+MENTION-00372,LinkedIn,2026-10-29,Packaging,Neutral,Product works as described on the website.,
+MENTION-00373,LinkedIn,2026-10-09,Website Experience,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00374,LinkedIn,2026-10-23,Customer Support,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00375,LinkedIn,2026-10-20,Product Quality,Neutral,Product works as described on the website.,
+MENTION-00376,TikTok,2026-10-01,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00377,Instagram,2026-10-28,Packaging,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00378,Instagram,2026-10-03,Pricing,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00379,X,2026-10-03,Customer Support,Neutral,"Standard pricing for ergonomic gear, matches expectations.",CAMP-004
+MENTION-00380,YouTube,2026-11-02,Product Quality,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00381,X,2026-11-04,Website Experience,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00382,LinkedIn,2026-11-19,Website Experience,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00383,X,2026-10-01,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00384,X,2026-11-01,Pricing,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-003
+MENTION-00385,LinkedIn,2026-11-05,Product Quality,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00386,Instagram,2026-11-03,Customer Support,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00387,YouTube,2026-10-23,Website Experience,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00388,X,2026-10-01,Customer Support,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00389,Instagram,2026-11-13,Shipping Speed,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00390,Instagram,2026-10-28,Shipping Speed,Neutral,"Standard pricing for ergonomic gear, matches expectations.",CAMP-011
+MENTION-00391,Instagram,2026-11-21,Shipping Speed,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00392,TikTok,2026-11-08,Customer Support,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00393,YouTube,2026-10-02,Shipping Speed,Neutral,"Arrived on the scheduled date, fits true to size.",CAMP-002
+MENTION-00394,YouTube,2026-11-06,Website Experience,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00395,LinkedIn,2026-10-30,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00396,X,2026-10-05,Pricing,Neutral,"Arrived on the scheduled date, fits true to size.",CAMP-009
+MENTION-00397,TikTok,2026-11-03,Packaging,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00398,X,2026-11-14,Shipping Speed,Negative,Why is the West Coast warehouse always out of stock on flagships?,CAMP-004
+MENTION-00399,YouTube,2026-10-11,Product Quality,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00400,X,2026-10-25,Customer Support,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00401,X,2026-10-19,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-001
+MENTION-00402,YouTube,2026-10-25,Shipping Speed,Neutral,"Arrived on the scheduled date, fits true to size.",
+MENTION-00403,Instagram,2026-11-11,Customer Support,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00404,LinkedIn,2026-10-10,Shipping Speed,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00405,LinkedIn,2026-11-06,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00406,TikTok,2026-10-27,Shipping Speed,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-008
+MENTION-00407,YouTube,2026-10-08,Packaging,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-003
+MENTION-00408,TikTok,2026-10-11,Pricing,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",CAMP-007
+MENTION-00409,LinkedIn,2026-10-21,Website Experience,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-009
+MENTION-00410,YouTube,2026-10-18,Pricing,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-008
+MENTION-00411,YouTube,2026-10-27,Customer Support,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00412,X,2026-11-04,Packaging,Neutral,Product works as described on the website.,
+MENTION-00413,X,2026-10-30,Product Quality,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-010
+MENTION-00414,X,2026-10-04,Packaging,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00415,YouTube,2026-11-18,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-005
+MENTION-00416,X,2026-11-05,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-003
+MENTION-00417,YouTube,2026-10-02,Pricing,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00418,Instagram,2026-11-13,Customer Support,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00419,X,2026-11-05,Product Quality,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00420,X,2026-11-04,Website Experience,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00421,Instagram,2026-10-09,Website Experience,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00422,X,2026-10-25,Product Quality,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00423,TikTok,2026-10-09,Pricing,Neutral,"Arrived on the scheduled date, fits true to size.",
+MENTION-00424,TikTok,2026-11-08,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00425,LinkedIn,2026-10-28,Packaging,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,CAMP-006
+MENTION-00426,YouTube,2026-10-03,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00427,TikTok,2026-11-03,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-008
+MENTION-00428,TikTok,2026-10-29,Website Experience,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00429,TikTok,2026-11-12,Shipping Speed,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00430,LinkedIn,2026-11-19,Pricing,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00431,Instagram,2026-11-11,Customer Support,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00432,LinkedIn,2026-10-18,Product Quality,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00433,Instagram,2026-10-07,Customer Support,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00434,Instagram,2026-11-11,Shipping Speed,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00435,YouTube,2026-10-13,Packaging,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,CAMP-007
+MENTION-00436,X,2026-11-19,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00437,YouTube,2026-10-29,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00438,TikTok,2026-10-10,Website Experience,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00439,LinkedIn,2026-11-02,Customer Support,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00440,Instagram,2026-10-19,Shipping Speed,Neutral,Product works as described on the website.,
+MENTION-00441,LinkedIn,2026-10-28,Product Quality,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00442,LinkedIn,2026-11-09,Pricing,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00443,Instagram,2026-10-14,Customer Support,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00444,TikTok,2026-11-15,Packaging,Neutral,Product works as described on the website.,CAMP-009
+MENTION-00445,X,2026-10-26,Website Experience,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-002
+MENTION-00446,X,2026-10-22,Customer Support,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00447,TikTok,2026-10-15,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00448,LinkedIn,2026-11-17,Shipping Speed,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00449,YouTube,2026-11-21,Product Quality,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",CAMP-007
+MENTION-00450,LinkedIn,2026-10-31,Pricing,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-011
+MENTION-00451,LinkedIn,2026-11-06,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00452,LinkedIn,2026-11-01,Website Experience,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00453,Instagram,2026-10-29,Customer Support,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00454,X,2026-10-05,Website Experience,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00455,LinkedIn,2026-11-11,Customer Support,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00456,Instagram,2026-10-25,Website Experience,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-008
+MENTION-00457,YouTube,2026-11-21,Customer Support,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00458,TikTok,2026-11-16,Shipping Speed,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00459,TikTok,2026-10-02,Pricing,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00460,Instagram,2026-11-17,Packaging,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-004
+MENTION-00461,YouTube,2026-10-27,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00462,YouTube,2026-10-27,Pricing,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,CAMP-006
+MENTION-00463,YouTube,2026-11-17,Shipping Speed,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00464,TikTok,2026-10-09,Website Experience,Neutral,"Arrived on the scheduled date, fits true to size.",CAMP-010
+MENTION-00465,Instagram,2026-11-04,Product Quality,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00466,X,2026-10-28,Shipping Speed,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00467,Instagram,2026-11-17,Shipping Speed,Negative,Why is the West Coast warehouse always out of stock on flagships?,CAMP-011
+MENTION-00468,LinkedIn,2026-10-20,Pricing,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-003
+MENTION-00469,TikTok,2026-10-14,Customer Support,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00470,YouTube,2026-10-24,Customer Support,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00471,X,2026-10-08,Pricing,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00472,X,2026-10-05,Packaging,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00473,YouTube,2026-11-11,Packaging,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00474,YouTube,2026-11-01,Pricing,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00475,X,2026-10-20,Product Quality,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-003
+MENTION-00476,LinkedIn,2026-11-17,Customer Support,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00477,LinkedIn,2026-11-13,Shipping Speed,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00478,TikTok,2026-11-04,Packaging,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00479,Instagram,2026-10-15,Customer Support,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00480,Instagram,2026-11-17,Customer Support,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-002
+MENTION-00481,LinkedIn,2026-10-08,Website Experience,Neutral,Product works as described on the website.,
+MENTION-00482,X,2026-10-30,Customer Support,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00483,LinkedIn,2026-10-01,Product Quality,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-008
+MENTION-00484,YouTube,2026-11-11,Shipping Speed,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00485,LinkedIn,2026-11-21,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00486,YouTube,2026-11-04,Shipping Speed,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00487,Instagram,2026-10-21,Product Quality,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00488,TikTok,2026-10-27,Website Experience,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00489,Instagram,2026-11-05,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00490,X,2026-10-26,Customer Support,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-008
+MENTION-00491,YouTube,2026-10-04,Website Experience,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-007
+MENTION-00492,TikTok,2026-11-07,Shipping Speed,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00493,TikTok,2026-10-17,Website Experience,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00494,TikTok,2026-10-04,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00495,LinkedIn,2026-10-22,Website Experience,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00496,TikTok,2026-10-09,Customer Support,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",CAMP-003
+MENTION-00497,YouTube,2026-10-02,Pricing,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-005
+MENTION-00498,X,2026-10-21,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00499,YouTube,2026-10-26,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-003
+MENTION-00500,LinkedIn,2026-10-09,Product Quality,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-010
+MENTION-00501,TikTok,2026-10-09,Website Experience,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00502,Instagram,2026-11-11,Product Quality,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00503,TikTok,2026-10-08,Customer Support,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-002
+MENTION-00504,TikTok,2026-10-13,Website Experience,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00505,TikTok,2026-10-08,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-007
+MENTION-00506,LinkedIn,2026-11-13,Shipping Speed,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00507,LinkedIn,2026-10-20,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-010
+MENTION-00508,YouTube,2026-11-02,Pricing,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00509,X,2026-11-16,Customer Support,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00510,LinkedIn,2026-10-16,Website Experience,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-008
+MENTION-00511,LinkedIn,2026-10-15,Pricing,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",CAMP-003
+MENTION-00512,YouTube,2026-10-25,Customer Support,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",CAMP-007
+MENTION-00513,LinkedIn,2026-10-11,Shipping Speed,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00514,YouTube,2026-10-27,Customer Support,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00515,TikTok,2026-10-24,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00516,LinkedIn,2026-10-11,Pricing,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00517,YouTube,2026-10-26,Website Experience,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-009
+MENTION-00518,YouTube,2026-11-07,Shipping Speed,Neutral,"Standard pricing for ergonomic gear, matches expectations.",
+MENTION-00519,LinkedIn,2026-10-10,Shipping Speed,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00520,TikTok,2026-11-07,Customer Support,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-011
+MENTION-00521,YouTube,2026-10-30,Shipping Speed,Neutral,"Arrived on the scheduled date, fits true to size.",CAMP-004
+MENTION-00522,LinkedIn,2026-11-12,Shipping Speed,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00523,YouTube,2026-10-02,Product Quality,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-010
+MENTION-00524,X,2026-10-31,Website Experience,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00525,X,2026-11-18,Website Experience,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00526,X,2026-10-15,Product Quality,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00527,YouTube,2026-11-14,Customer Support,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00528,TikTok,2026-10-31,Pricing,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00529,Instagram,2026-11-19,Product Quality,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00530,X,2026-10-31,Website Experience,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00531,X,2026-10-18,Shipping Speed,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00532,TikTok,2026-10-26,Packaging,Neutral,Product works as described on the website.,
+MENTION-00533,LinkedIn,2026-10-21,Shipping Speed,Neutral,"Arrived on the scheduled date, fits true to size.",
+MENTION-00534,LinkedIn,2026-11-14,Customer Support,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00535,TikTok,2026-10-30,Website Experience,Negative,Waited 45 minutes on support chat just to ask about a backorder.,CAMP-007
+MENTION-00536,LinkedIn,2026-11-06,Packaging,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00537,TikTok,2026-10-08,Website Experience,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00538,YouTube,2026-11-06,Product Quality,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00539,YouTube,2026-10-02,Website Experience,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",CAMP-004
+MENTION-00540,Instagram,2026-11-08,Product Quality,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-006
+MENTION-00541,X,2026-11-20,Product Quality,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00542,X,2026-10-18,Product Quality,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",CAMP-004
+MENTION-00543,LinkedIn,2026-10-18,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00544,TikTok,2026-11-12,Customer Support,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,CAMP-010
+MENTION-00545,LinkedIn,2026-11-04,Product Quality,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00546,X,2026-11-01,Shipping Speed,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00547,Instagram,2026-10-06,Pricing,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00548,X,2026-11-15,Website Experience,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00549,TikTok,2026-11-11,Customer Support,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00550,X,2026-10-26,Product Quality,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",
+MENTION-00551,Instagram,2026-11-08,Shipping Speed,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00552,TikTok,2026-11-19,Customer Support,Positive,Fastest checkout experience and arrived in 2 days flat.,CAMP-005
+MENTION-00553,Instagram,2026-10-10,Shipping Speed,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00554,YouTube,2026-11-14,Packaging,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-009
+MENTION-00555,Instagram,2026-10-25,Product Quality,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-012
+MENTION-00556,YouTube,2026-10-06,Product Quality,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,
+MENTION-00557,X,2026-10-07,Website Experience,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00558,YouTube,2026-10-20,Website Experience,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00559,X,2026-11-03,Website Experience,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-009
+MENTION-00560,LinkedIn,2026-10-30,Customer Support,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00561,X,2026-10-05,Shipping Speed,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00562,YouTube,2026-10-24,Pricing,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-002
+MENTION-00563,X,2026-10-16,Product Quality,Positive,Love the aesthetic packaging and sustainable materials.,CAMP-002
+MENTION-00564,YouTube,2026-11-12,Product Quality,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",CAMP-003
+MENTION-00565,LinkedIn,2026-10-08,Customer Support,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00566,LinkedIn,2026-10-06,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00567,TikTok,2026-10-28,Pricing,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-006
+MENTION-00568,TikTok,2026-10-22,Customer Support,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00569,Instagram,2026-10-05,Shipping Speed,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00570,Instagram,2026-11-21,Website Experience,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00571,LinkedIn,2026-11-09,Packaging,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00572,LinkedIn,2026-11-08,Packaging,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-001
+MENTION-00573,LinkedIn,2026-10-02,Product Quality,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00574,YouTube,2026-10-23,Shipping Speed,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,CAMP-003
+MENTION-00575,YouTube,2026-10-12,Website Experience,Neutral,Product works as described on the website.,CAMP-007
+MENTION-00576,LinkedIn,2026-10-09,Pricing,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00577,YouTube,2026-10-01,Product Quality,Neutral,"Monitor stand is decent, assembly instructions could have been slightly clearer.",CAMP-011
+MENTION-00578,Instagram,2026-10-18,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00579,TikTok,2026-10-27,Customer Support,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00580,Instagram,2026-11-21,Product Quality,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00581,Instagram,2026-11-08,Website Experience,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00582,TikTok,2026-11-04,Product Quality,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-012
+MENTION-00583,Instagram,2026-10-08,Customer Support,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",CAMP-003
+MENTION-00584,TikTok,2026-11-05,Shipping Speed,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-009
+MENTION-00585,YouTube,2026-10-18,Customer Support,Negative,"Zipper on the jacket snagged on day two, expected higher durability.",
+MENTION-00586,X,2026-11-08,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",CAMP-001
+MENTION-00587,X,2026-11-16,Shipping Speed,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00588,Instagram,2026-11-20,Website Experience,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,CAMP-001
+MENTION-00589,LinkedIn,2026-11-19,Shipping Speed,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00590,X,2026-10-11,Packaging,Positive,"Unbelievable display clarity on the 34-inch monitor, completely transformed my remote workflow!",
+MENTION-00591,LinkedIn,2026-10-28,Product Quality,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00592,Instagram,2026-11-05,Packaging,Neutral,"Arrived on the scheduled date, fits true to size.",CAMP-009
+MENTION-00593,Instagram,2026-10-02,Product Quality,Negative,Ordered the monitor 8 days ago and tracking still says label created. Very frustrating shipping delay.,
+MENTION-00594,LinkedIn,2026-11-15,Shipping Speed,Negative,Waited 45 minutes on support chat just to ask about a backorder.,
+MENTION-00595,Instagram,2026-11-02,Website Experience,Positive,Love the aesthetic packaging and sustainable materials.,
+MENTION-00596,YouTube,2026-11-21,Customer Support,Neutral,"Arrived on the scheduled date, fits true to size.",
+MENTION-00597,Instagram,2026-10-12,Website Experience,Positive,Customer support refunded an accidental duplicate order in less than 5 minutes.,
+MENTION-00598,Instagram,2026-10-15,Pricing,Positive,Fastest checkout experience and arrived in 2 days flat.,
+MENTION-00599,Instagram,2026-11-05,Website Experience,Negative,Why is the West Coast warehouse always out of stock on flagships?,
+MENTION-00600,Instagram,2026-11-19,Website Experience,Positive,The merino wool hoodie is legitimately the best piece of apparel I purchased all year.,

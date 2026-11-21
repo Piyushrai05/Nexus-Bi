@@ -1,0 +1,68 @@
+# NEXUS BI — Render Multi-Service Blueprint
+# Deploys separate FastAPI backend and Next.js frontend services with zero-downtime health probes.
+
+services:
+  # ---------------------------------------------------------------------------
+  # 1. FastAPI + DuckDB Analytical Engine Backend
+  # ---------------------------------------------------------------------------
+  - type: web
+    name: nexus-bi-backend
+    runtime: python
+    region: oregon
+    plan: standard
+    rootDir: backend
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.9"
+      - key: DEBUG
+        value: "false"
+      - key: GROQ_API_KEY
+        sync: false
+      - key: FIREBASE_PROJECT_ID
+        sync: false
+      - key: FIREBASE_STORAGE_BUCKET
+        sync: false
+      - key: FIREBASE_SERVICE_ACCOUNT_JSON
+        sync: false
+      - key: FIREBASE_CREDENTIALS_PATH
+        value: /etc/secrets/firebase-service-account.json
+    secretFiles:
+      - key: firebase-service-account
+        mountPath: /etc/secrets/firebase-service-account.json
+
+  # ---------------------------------------------------------------------------
+  # 2. Next.js 15 + React 19 Executive Frontend
+  # ---------------------------------------------------------------------------
+  - type: web
+    name: nexus-bi-frontend
+    runtime: node
+    region: oregon
+    plan: standard
+    rootDir: frontend
+    buildCommand: npm ci && npm run build
+    startCommand: npm start -- -p $PORT
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: "22.14.0"
+      - key: NEXT_PUBLIC_API_URL
+        fromService:
+          type: web
+          name: nexus-bi-backend
+          property: host
+      - key: NEXT_PUBLIC_FIREBASE_API_KEY
+        sync: false
+      - key: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
+        sync: false
+      - key: NEXT_PUBLIC_FIREBASE_PROJECT_ID
+        sync: false
+      - key: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
+        sync: false
+      - key: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
+        sync: false
+      - key: NEXT_PUBLIC_FIREBASE_APP_ID
+        sync: false

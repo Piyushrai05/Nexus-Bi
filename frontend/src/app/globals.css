@@ -1,0 +1,208 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Executive Light Theme (Clean, Trustworthy, Professional) */
+    --background: 210 40% 98%; /* #F8FAFC Slate 50 */
+    --foreground: 222 47% 11%; /* #0F172A Slate 900 */
+
+    --surface: 0 0% 100%; /* #FFFFFF */
+    --surface-elevated: 210 40% 96%; /* #F1F5F9 */
+    --surface-muted: 214 32% 91%; /* #E2E8F0 */
+
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+
+    --primary: 221 83% 53%; /* #2563EB Executive Royal Blue */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 210 40% 96%;
+    --secondary-foreground: 222 47% 11%;
+
+    --muted: 215 16% 47%;
+    --muted-foreground: 215 25% 40%;
+
+    --accent: 210 40% 96%;
+    --accent-foreground: 222 47% 11%;
+
+    --border: 214 32% 91%; /* #E2E8F0 */
+    --input: 214 32% 91%;
+    --ring: 221 83% 53%;
+
+    /* Semantic Financial Highlights */
+    --success: 158 64% 42%; /* #10B981 */
+    --success-foreground: 0 0% 100%;
+    --warning: 38 92% 50%; /* #F59E0B */
+    --warning-foreground: 0 0% 100%;
+    --danger: 350 89% 60%; /* #F43F5E */
+    --danger-foreground: 0 0% 100%;
+    --info: 217 91% 60%; /* #3B82F6 */
+    --info-foreground: 0 0% 100%;
+
+    --ai-accent: 221 83% 53%;
+    --ai-glow: 217 91% 60%;
+
+    /* Professional Financial Chart Palette */
+    --chart-1: #2563EB;
+    --chart-2: #10B981;
+    --chart-3: #0891B2;
+    --chart-4: #6366F1;
+    --chart-5: #F59E0B;
+    --chart-6: #F43F5E;
+    --chart-7: #64748B;
+    --chart-8: #334155;
+
+    --radius: 0.75rem;
+  }
+
+  .dark {
+    /* Executive Midnight Slate (High-End Enterprise SaaS like Stripe, Bloomberg, Snowflake) */
+    --background: 222 47% 7%; /* #0B0F19 Deep Executive Slate */
+    --foreground: 210 40% 98%; /* #F8FAFC Crisp Heading */
+
+    --surface: 222 47% 10%; /* #101626 Core Surface */
+    --surface-elevated: 217 33% 15%; /* #1A2234 Elevated Surface */
+    --surface-muted: 215 28% 19%; /* #222C40 Muted Surface */
+
+    --card: 222 47% 9%; /* #0E1424 Clean Card Background */
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222 47% 11%; /* #111827 */
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 217 91% 60%; /* #3B82F6 Professional Sapphire Blue */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 217 33% 15%; /* #1A2234 */
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 215 20% 55%; /* #8291A8 */
+    --muted-foreground: 215 20% 65%; /* #94A3B8 Crisp Secondary */
+
+    --accent: 217 33% 15%;
+    --accent-foreground: 210 40% 98%;
+
+    --border: 217 33% 17%; /* #1E293B Crisp Architectural Border */
+    --input: 217 33% 17%;
+    --ring: 217 91% 60%;
+
+    /* Crisp Precision Indicators */
+    --success: 158 64% 52%; /* #10B981 */
+    --success-foreground: 0 0% 100%;
+    --warning: 38 92% 50%; /* #F59E0B */
+    --warning-foreground: 0 0% 100%;
+    --danger: 350 89% 60%; /* #F43F5E */
+    --danger-foreground: 0 0% 100%;
+    --info: 217 91% 60%; /* #3B82F6 */
+    --info-foreground: 0 0% 100%;
+
+    /* Refined Sapphire Accents */
+    --ai-accent: 217 91% 60%; /* #3B82F6 */
+    --ai-glow: 221 83% 53%;
+
+    /* Professional Financial Chart Palette */
+    --chart-1: #3B82F6; /* Sapphire Blue Primary */
+    --chart-2: #10B981; /* Emerald Profit */
+    --chart-3: #06B6D4; /* Cyan Telemetry */
+    --chart-4: #8B5CF6; /* Violet Metric */
+    --chart-5: #F59E0B; /* Amber Caution */
+    --chart-6: #F43F5E; /* Rose Anomaly */
+    --chart-7: #64748B; /* Slate Baseline */
+    --chart-8: #94A3B8; /* Muted Slate */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased selection:bg-blue-600/30 selection:text-white;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11", "ss01";
+    letter-spacing: -0.015em;
+  }
+
+  /* Professional tabular figures for all data/metrics */
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Subtle Professional Grid Background */
+.bg-grid-pattern {
+  background-image: radial-gradient(rgba(148, 163, 184, 0.12) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
+
+.light .bg-grid-pattern {
+  background-image: radial-gradient(rgba(100, 116, 139, 0.12) 1px, transparent 1px);
+}
+
+/* Soft Vignette Mask for Depth */
+.bg-vignette {
+  mask-image: radial-gradient(ellipse at center, rgba(0, 0, 0, 1) 40%, rgba(0, 0, 0, 0) 80%);
+  -webkit-mask-image: radial-gradient(ellipse at center, rgba(0, 0, 0, 1) 40%, rgba(0, 0, 0, 0) 80%);
+}
+
+/* Executive Gradient Heading */
+.executive-text-gradient {
+  background: linear-gradient(180deg, #FFFFFF 20%, #CBD5E1 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.light .executive-text-gradient {
+  background: linear-gradient(180deg, #0F172A 20%, #334155 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.ai-gradient-text {
+  background: linear-gradient(135deg, #3B82F6 0%, #60A5FA 60%, #38BDF8 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Elegant Enterprise Card Styling */
+.enterprise-card {
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.enterprise-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(59, 130, 246, 0.4);
+  box-shadow: 0 12px 30px -10px rgba(0, 0, 0, 0.6), 0 0 15px -3px rgba(59, 130, 246, 0.12);
+}
+
+/* Primary Button Styling with Soft Glow */
+.btn-primary-glow {
+  position: relative;
+  transition: all 0.2s ease;
+}
+.btn-primary-glow:hover {
+  box-shadow: 0 0 20px -2px rgba(59, 130, 246, 0.45);
+  transform: translateY(-1px);
+}
+.btn-primary-glow:active {
+  transform: translateY(0);
+}
+
+/* Custom Minimalist Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.2);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.35);
+}

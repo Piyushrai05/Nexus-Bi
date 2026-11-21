@@ -1,0 +1,13 @@
+campaign_id,campaign_name,platform,campaign_start,campaign_end,spend,impressions,clicks,conversions,attributed_revenue
+CAMP-001,Instagram Spring Apparel Wave,Instagram,2026-10-15,2026-11-20,14500.0,580000,18500,310,22400.0
+CAMP-002,LinkedIn B2B Workspace Blitz,LinkedIn,2026-10-01,2026-11-20,8200.0,142000,4800,280,39400.0
+CAMP-003,TikTok Viral Tech Desk Setup,TikTok,2026-10-20,2026-11-15,9800.0,720000,14200,210,15800.0
+CAMP-004,YouTube Deep Dive Monitor Review,YouTube,2026-09-01,2026-11-20,11200.0,310000,8900,340,34800.0
+CAMP-005,Google Search Intent - Core,Organic Search,2026-01-01,2026-11-20,24000.0,950000,45000,1450,168000.0
+CAMP-006,Holiday Early Bird Preview,Email,2026-11-01,2026-11-20,3200.0,95000,12800,520,58400.0
+CAMP-007,X Developer Ergonomics Thread,X,2026-10-10,2026-11-10,4100.0,180000,3900,85,6200.0
+CAMP-008,Influencer Unboxing Surge,TikTok,2026-10-28,2026-11-12,6400.0,410000,9800,140,11200.0
+CAMP-009,Minimalist Living Retargeting,Instagram,2026-10-01,2026-11-20,5600.0,220000,6800,190,19800.0
+CAMP-010,Affiliate Tech Review Roundups,Affiliate,2026-08-01,2026-11-20,7800.0,290000,11400,410,48200.0
+CAMP-011,Black Friday Warmup Push,Instagram,2026-11-10,2026-11-20,12800.0,490000,16200,380,31200.0
+CAMP-012,Executive Ergonomics Whitepaper,LinkedIn,2026-10-15,2026-11-20,4500.0,88000,2400,110,18900.0

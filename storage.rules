@@ -1,0 +1,25 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    
+    // User-specific datasets & uploads
+    match /uploads/{userId}/{allPaths=**} {
+      allow read, write: if request.auth != null 
+        && request.auth.uid == userId
+        && request.resource.size < 50 * 1024 * 1024
+        && (
+          request.resource.contentType.matches('text/csv') ||
+          request.resource.contentType.matches('application/vnd.openxmlformats-officedocument.spreadsheetml.sheet') ||
+          request.resource.contentType.matches('application/octet-stream') ||
+          request.resource.name.matches('.*\\.(csv|xlsx|parquet)$')
+        );
+      allow delete: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // Public demo assets (read-only)
+    match /demo/{allPaths=**} {
+      allow read: if true;
+      allow write: if false;
+    }
+  }
+}

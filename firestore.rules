@@ -1,0 +1,48 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // User profile documents: only the authenticated user can read and modify their record
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // Workspaces: only authorized members can read; owner can write
+    match /workspaces/{workspaceId} {
+      allow read: if request.auth != null && (
+        resource == null || 
+        resource.data.owner_uid == request.auth.uid || 
+        request.auth.uid in resource.data.members
+      );
+      allow write: if request.auth != null && (
+        resource == null || 
+        resource.data.owner_uid == request.auth.uid
+      );
+    }
+
+    // Datasets: only the owner or workspace members can access metadata
+    match /datasets/{datasetId} {
+      allow read: if request.auth != null && (
+        resource.data.is_demo == true ||
+        resource.data.owner_uid == request.auth.uid
+      );
+      allow write: if request.auth != null && (
+        resource == null || 
+        resource.data.owner_uid == request.auth.uid
+      );
+    }
+
+    // User preferences
+    match /user_preferences/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // Reports: private to the creator or workspace
+    match /reports/{reportId} {
+      allow read, write: if request.auth != null && (
+        resource == null || 
+        resource.data.owner_uid == request.auth.uid
+      );
+    }
+  }
+}

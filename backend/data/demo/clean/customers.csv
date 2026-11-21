@@ -1,0 +1,301 @@
+customer_id,customer_name,acquisition_date,region,customer_segment,acquisition_channel,lifetime_value,last_purchase_date
+CUST-0001,Morgan Vance,2025-05-21,East,Mid-Market,Direct,806.47,2026-11-21
+CUST-0002,Emma Jenkins,2025-10-30,South,Enterprise,Direct,1445.48,2026-09-26
+CUST-0003,Pat O'Connor,2025-09-16,West,SMB,Affiliate,3197.62,2026-11-13
+CUST-0004,David O'Connor,2025-08-18,Central,Consumer,Direct,983.75,2026-11-20
+CUST-0005,Chris Brown,2025-06-24,Central,Mid-Market,Paid Social,1174.08,2026-11-21
+CUST-0006,Morgan Jenkins,2025-07-14,West,Mid-Market,Paid Social,1091.82,2026-11-20
+CUST-0007,James Kim,2025-01-23,South,SMB,Email,1324.17,2026-11-14
+CUST-0008,Taylor Davis,2025-05-31,Central,SMB,Direct,1192.95,2026-11-13
+CUST-0009,Jordan O'Connor,2025-05-29,West,Consumer,Direct,1056.46,2026-11-16
+CUST-0010,Sarah Kim,2025-08-21,Central,Mid-Market,Paid Social,857.99,2026-10-28
+CUST-0011,Pat Kim,2025-12-26,West,SMB,Organic Search,795.32,2026-11-20
+CUST-0012,Emma O'Connor,2025-03-25,South,Mid-Market,Affiliate,3220.02,2026-11-11
+CUST-0013,Riley Smith,2025-01-29,East,Consumer,Paid Social,1441.37,2026-11-16
+CUST-0014,Sarah Kim,2025-02-03,East,Consumer,Affiliate,2502.41,2026-11-20
+CUST-0015,Elena Mueller,2025-12-02,South,Mid-Market,Email,1011.25,2026-11-18
+CUST-0016,Sam Kim,2025-03-13,East,SMB,Affiliate,1458.28,2026-11-20
+CUST-0017,Casey Rodriguez,2025-08-08,South,Mid-Market,Organic Search,1130.91,2026-11-12
+CUST-0018,Liam Garcia,2025-02-16,West,Consumer,Organic Search,918.99,2026-11-04
+CUST-0019,Chris Brown,2025-11-02,West,Mid-Market,Affiliate,1509.5,2026-11-20
+CUST-0020,Chloe Miller,2025-05-09,West,SMB,Direct,1479.39,2026-11-18
+CUST-0021,Emma Kim,2025-11-25,Central,Enterprise,Email,4559.91,2026-11-21
+CUST-0022,Chris Jones,2025-01-02,Central,Consumer,Organic Search,2708.84,2026-11-15
+CUST-0023,Liam Chen,2025-11-17,Central,Consumer,Affiliate,1665.78,2026-11-12
+CUST-0024,James Mueller,2025-03-20,Central,Consumer,Affiliate,2372.91,2026-11-15
+CUST-0025,Liam Vance,2025-11-03,Central,SMB,Direct,1121.74,2026-11-11
+CUST-0026,Marcus Patel,2025-05-03,West,Mid-Market,Affiliate,3352.1,2026-11-01
+CUST-0027,Taylor Jenkins,2025-09-06,West,Consumer,Affiliate,672.34,2026-11-19
+CUST-0028,Sam Bennett,2025-12-04,South,Consumer,Organic Search,1327.61,2026-11-18
+CUST-0029,Casey Miller,2025-11-07,South,Consumer,Affiliate,1424.6,2026-11-15
+CUST-0030,Pat Patel,2025-07-24,Central,SMB,Affiliate,618.35,2026-10-26
+CUST-0031,Chloe Chen,2025-05-07,East,Enterprise,Direct,1370.15,2026-11-12
+CUST-0032,Olivia Davis,2025-04-28,East,Enterprise,Direct,1667.65,2026-11-01
+CUST-0033,Riley Jenkins,2025-01-17,Central,Enterprise,Organic Search,734.68,2026-11-19
+CUST-0034,Casey Garcia,2025-04-20,East,SMB,Affiliate,1617.5,2026-11-19
+CUST-0035,Olivia Garcia,2025-05-05,South,Consumer,Organic Search,3290.2,2026-11-18
+CUST-0036,Morgan Chen,2025-12-04,South,Mid-Market,Email,2272.61,2026-11-12
+CUST-0037,Chloe Rostova,2025-12-11,West,Enterprise,Paid Social,2055.93,2026-11-19
+CUST-0038,Morgan O'Connor,2025-04-09,East,SMB,Organic Search,1179.39,2026-11-13
+CUST-0039,David Kowalski,2025-05-23,South,Mid-Market,Direct,6523.85,2026-11-14
+CUST-0040,Chloe Davis,2025-02-20,West,SMB,Affiliate,1486.55,2026-11-21
+CUST-0041,Alex Jenkins,2025-05-02,East,SMB,Email,1810.9,2026-11-13
+CUST-0042,Pat Williams,2025-01-31,East,Mid-Market,Email,668.5,2026-11-09
+CUST-0043,Casey Jones,2025-05-27,South,SMB,Affiliate,1328.15,2026-11-10
+CUST-0044,Noah Bennett,2025-04-08,Central,Mid-Market,Direct,1315.63,2026-10-29
+CUST-0045,Olivia Davis,2025-02-01,Central,Enterprise,Affiliate,1091.97,2026-10-27
+CUST-0046,Noah Miller,2025-09-29,East,Enterprise,Affiliate,1343.35,2026-11-21
+CUST-0047,Taylor Kowalski,2025-02-05,West,SMB,Organic Search,2134.72,2026-10-27
+CUST-0048,Sarah Chen,2025-10-19,East,SMB,Direct,2713.62,2026-11-21
+CUST-0049,James Jenkins,2025-08-03,Central,Consumer,Organic Search,2238.13,2026-11-19
+CUST-0050,Elena O'Connor,2025-05-16,South,Enterprise,Paid Social,2463.0,2026-11-20
+CUST-0051,Chloe Smith,2025-02-07,West,SMB,Affiliate,1762.63,2026-11-19
+CUST-0052,Morgan Jenkins,2025-10-03,East,SMB,Organic Search,2255.3,2026-11-21
+CUST-0053,Marcus Jenkins,2025-05-06,Central,Mid-Market,Email,855.79,2026-11-16
+CUST-0054,Emma Patel,2025-11-10,West,SMB,Affiliate,2021.17,2026-11-09
+CUST-0055,Avery Chen,2025-03-10,Central,Enterprise,Direct,727.64,2026-11-20
+CUST-0056,Emma Bennett,2025-05-20,Central,SMB,Paid Social,1802.65,2026-11-04
+CUST-0057,Pat Kim,2025-09-16,South,Mid-Market,Direct,1601.8,2026-11-04
+CUST-0058,Taylor Brown,2025-05-22,West,Enterprise,Organic Search,785.94,2026-11-02
+CUST-0059,Casey Kowalski,2025-08-15,South,SMB,Direct,3487.75,2026-11-10
+CUST-0060,Taylor Bennett,2025-10-07,West,Consumer,Affiliate,1195.13,2026-11-11
+CUST-0061,Emma Bennett,2025-08-09,East,Enterprise,Paid Social,3099.24,2026-10-27
+CUST-0062,Jordan Johnson,2025-04-18,East,SMB,Paid Social,1351.56,2026-11-16
+CUST-0063,Emma Brown,2025-11-14,East,Consumer,Organic Search,1096.94,2026-10-22
+CUST-0064,Chris Kowalski,2025-07-31,West,Mid-Market,Paid Social,1463.85,2026-11-18
+CUST-0065,David O'Connor,2025-05-17,East,Consumer,Direct,2921.91,2026-10-15
+CUST-0066,Sarah Rostova,2025-08-29,East,Mid-Market,Email,2408.58,2026-11-14
+CUST-0067,Marcus Patel,2025-04-27,East,Enterprise,Organic Search,1078.69,2026-11-16
+CUST-0068,Sarah Smith,2025-05-23,West,Consumer,Paid Social,2615.91,2026-11-12
+CUST-0069,Marcus Miller,2025-07-24,Central,Consumer,Direct,1842.63,2026-10-21
+CUST-0070,Casey Kowalski,2025-10-25,Central,Enterprise,Affiliate,2882.18,2026-11-09
+CUST-0071,David Johnson,2025-06-10,South,SMB,Affiliate,3776.95,2026-11-06
+CUST-0072,Morgan Williams,2025-10-23,East,Mid-Market,Email,1793.03,2026-11-13
+CUST-0073,Alex Miller,2025-10-03,East,Mid-Market,Direct,3476.44,2026-11-06
+CUST-0074,Elena Martinez,2025-06-10,West,SMB,Paid Social,1731.02,2026-11-16
+CUST-0075,Liam Patel,2025-12-08,South,Mid-Market,Paid Social,1316.33,2026-11-14
+CUST-0076,Emma Bennett,2025-04-09,South,SMB,Email,1603.47,2026-11-21
+CUST-0077,Chris Martinez,2025-10-19,Central,SMB,Direct,806.93,2026-11-20
+CUST-0078,Avery Patel,2025-04-18,South,Consumer,Affiliate,1338.16,2026-11-09
+CUST-0079,Elena Jones,2025-08-15,South,SMB,Affiliate,3677.9,2026-11-15
+CUST-0080,Noah Kowalski,2025-12-04,West,Mid-Market,Affiliate,966.07,2026-11-21
+CUST-0081,Elena Jenkins,2025-05-01,Central,Mid-Market,Organic Search,3986.89,2026-11-21
+CUST-0082,Sam Vance,2025-01-24,East,Consumer,Affiliate,1121.36,2026-11-10
+CUST-0083,Taylor Jones,2025-08-01,East,SMB,Email,3092.67,2026-11-18
+CUST-0084,Noah Williams,2025-05-05,East,SMB,Direct,1410.4,2026-11-16
+CUST-0085,Morgan Brown,2025-04-23,East,Consumer,Affiliate,1772.23,2026-11-18
+CUST-0086,Chloe Rostova,2025-10-13,East,Consumer,Direct,1172.81,2026-11-21
+CUST-0087,Chloe Bennett,2025-08-26,Central,Consumer,Email,3548.95,2026-11-09
+CUST-0088,James Miller,2025-08-07,South,Consumer,Email,1159.04,2026-11-21
+CUST-0089,Chloe Kim,2025-05-07,Central,Consumer,Affiliate,1921.25,2026-11-01
+CUST-0090,Noah O'Connor,2025-05-21,South,Enterprise,Paid Social,3016.0,2026-11-17
+CUST-0091,Riley Kim,2025-06-21,Central,Consumer,Direct,684.0,2026-11-13
+CUST-0092,Sam Bennett,2025-04-29,South,SMB,Organic Search,1228.57,2026-11-07
+CUST-0093,Taylor Brown,2025-07-28,Central,SMB,Email,4290.57,2026-11-17
+CUST-0094,Jordan Mueller,2025-08-04,South,Consumer,Affiliate,3012.62,2026-11-11
+CUST-0095,Alex Rodriguez,2025-07-14,South,Enterprise,Paid Social,4192.79,2026-11-12
+CUST-0096,Avery Williams,2025-08-03,East,SMB,Paid Social,1967.82,2026-11-21
+CUST-0097,David Garcia,2025-01-15,South,Mid-Market,Email,2141.63,2026-11-15
+CUST-0098,Chris Jones,2025-03-07,West,Consumer,Affiliate,3616.52,2026-11-13
+CUST-0099,Olivia Vance,2025-02-12,South,Enterprise,Email,2498.32,2026-11-05
+CUST-0100,Chris Rostova,2025-05-14,South,Mid-Market,Email,969.4,2026-11-08
+CUST-0101,Elena Smith,2025-07-14,Central,Consumer,Email,1393.34,2026-11-18
+CUST-0102,Casey Jenkins,2025-08-29,West,SMB,Direct,496.59,2026-11-18
+CUST-0103,Marcus O'Connor,2025-11-29,West,Consumer,Direct,1419.81,2026-11-19
+CUST-0104,Alex O'Connor,2025-04-13,West,SMB,Organic Search,1680.74,2026-11-04
+CUST-0105,Sam Garcia,2025-12-09,West,SMB,Organic Search,1068.93,2026-11-21
+CUST-0106,Chloe Kim,2025-07-08,East,SMB,Direct,738.37,2026-11-17
+CUST-0107,Chris Patel,2025-02-25,West,Consumer,Affiliate,880.58,2026-11-11
+CUST-0108,Sarah Williams,2025-04-12,West,SMB,Organic Search,2301.53,2026-11-14
+CUST-0109,Morgan Patel,2025-12-17,West,Consumer,Affiliate,1721.88,2026-11-20
+CUST-0110,Jordan Johnson,2025-09-30,South,SMB,Direct,1992.11,2026-11-18
+CUST-0111,Liam Smith,2025-01-07,South,Consumer,Direct,767.64,2026-11-16
+CUST-0112,David Johnson,2025-11-22,South,SMB,Email,1264.11,2026-11-19
+CUST-0113,Chris Miller,2025-11-30,Central,SMB,Affiliate,1401.13,2026-11-17
+CUST-0114,Noah Jones,2025-08-12,Central,Mid-Market,Organic Search,98.2,2026-09-29
+CUST-0115,Taylor Kim,2025-08-19,East,Consumer,Affiliate,3314.89,2026-11-13
+CUST-0116,James Williams,2025-06-22,West,SMB,Paid Social,1196.03,2026-11-13
+CUST-0117,Chris Garcia,2025-04-19,Central,Consumer,Paid Social,870.63,2026-11-07
+CUST-0118,Casey Martinez,2025-12-26,Central,SMB,Affiliate,1706.97,2026-10-30
+CUST-0119,Pat Jenkins,2025-05-04,South,SMB,Organic Search,1664.72,2026-11-18
+CUST-0120,Noah Garcia,2025-08-18,West,Enterprise,Organic Search,952.88,2026-11-21
+CUST-0121,Sarah O'Connor,2025-06-06,Central,SMB,Affiliate,953.94,2026-10-04
+CUST-0122,Marcus Brown,2025-10-09,Central,Mid-Market,Email,1570.35,2026-11-16
+CUST-0123,Casey Patel,2025-05-09,East,Enterprise,Organic Search,1905.61,2026-10-20
+CUST-0124,Elena Chen,2025-10-02,East,Mid-Market,Email,2495.26,2026-11-08
+CUST-0125,Casey Rodriguez,2025-09-26,Central,Consumer,Organic Search,1862.54,2026-11-13
+CUST-0126,Avery O'Connor,2025-07-04,East,Mid-Market,Affiliate,1507.72,2026-11-09
+CUST-0127,Sam Kim,2025-01-24,West,SMB,Organic Search,1782.72,2026-11-17
+CUST-0128,Noah Chen,2025-01-07,Central,SMB,Email,1053.1,2026-11-15
+CUST-0129,Elena Kowalski,2025-01-27,Central,Consumer,Email,2620.16,2026-11-18
+CUST-0130,Morgan Jenkins,2025-07-25,South,Enterprise,Direct,1180.81,2026-11-05
+CUST-0131,Sam Bennett,2025-10-16,Central,Enterprise,Organic Search,1639.35,2026-11-05
+CUST-0132,Morgan Davis,2025-08-02,East,Consumer,Email,1921.65,2026-11-17
+CUST-0133,Chloe Jones,2025-06-02,South,Mid-Market,Affiliate,898.62,2026-11-02
+CUST-0134,Jordan Martinez,2025-02-20,East,SMB,Paid Social,545.48,2026-11-16
+CUST-0135,Taylor Kowalski,2025-05-03,East,SMB,Organic Search,1360.75,2026-10-30
+CUST-0136,Alex Brown,2025-08-19,South,Mid-Market,Organic Search,664.75,2026-11-09
+CUST-0137,Avery Patel,2025-12-26,South,Enterprise,Organic Search,788.57,2026-11-04
+CUST-0138,Casey Rodriguez,2025-12-05,East,SMB,Affiliate,1067.67,2026-11-13
+CUST-0139,Riley Bennett,2025-05-17,East,Enterprise,Organic Search,575.57,2026-11-18
+CUST-0140,Avery Martinez,2025-10-19,Central,SMB,Email,1192.58,2026-11-21
+CUST-0141,Avery Williams,2025-05-20,South,SMB,Affiliate,2242.16,2026-10-28
+CUST-0142,Jordan Brown,2025-06-15,Central,Enterprise,Organic Search,1714.74,2026-11-18
+CUST-0143,Olivia Rodriguez,2025-01-11,Central,SMB,Organic Search,581.79,2026-11-11
+CUST-0144,Noah Miller,2025-11-30,South,Consumer,Organic Search,744.77,2026-11-15
+CUST-0145,Olivia Brown,2025-11-22,South,Consumer,Email,1842.86,2026-11-19
+CUST-0146,Marcus Brown,2025-06-20,Central,SMB,Organic Search,1403.13,2026-11-15
+CUST-0147,Elena Brown,2025-12-22,South,Mid-Market,Email,2172.93,2026-11-14
+CUST-0148,Emma Rostova,2025-08-21,West,Mid-Market,Paid Social,1804.09,2026-11-16
+CUST-0149,Morgan Williams,2025-09-21,West,SMB,Affiliate,1060.9,2026-11-15
+CUST-0150,Chloe Brown,2025-01-28,East,SMB,Affiliate,728.57,2026-11-08
+CUST-0151,Noah Jones,2025-01-27,East,Mid-Market,Organic Search,1545.19,2026-11-12
+CUST-0152,Avery Jones,2025-12-24,South,Enterprise,Affiliate,1355.12,2026-11-15
+CUST-0153,Riley Kowalski,2025-06-09,West,SMB,Direct,778.48,2026-11-13
+CUST-0154,Riley Chen,2025-08-25,West,SMB,Organic Search,2925.02,2026-11-08
+CUST-0155,Noah Patel,2025-09-18,Central,SMB,Email,2116.67,2026-11-18
+CUST-0156,Noah O'Connor,2025-08-22,East,Mid-Market,Affiliate,890.32,2026-11-21
+CUST-0157,Liam Bennett,2025-02-05,Central,Consumer,Email,63.0,2026-10-13
+CUST-0158,Elena Miller,2025-05-17,West,Mid-Market,Paid Social,5781.89,2026-10-27
+CUST-0159,Olivia Rodriguez,2025-12-04,South,Consumer,Email,1512.83,2026-11-20
+CUST-0160,Emma Garcia,2025-06-26,Central,SMB,Affiliate,653.13,2026-11-16
+CUST-0161,Sarah Jones,2025-06-14,East,Consumer,Organic Search,2093.98,2026-11-19
+CUST-0162,Olivia Williams,2025-04-30,South,Enterprise,Email,1995.9,2026-10-28
+CUST-0163,Sarah Williams,2025-12-06,East,SMB,Direct,908.55,2026-11-16
+CUST-0164,Sam Miller,2025-10-30,Central,Consumer,Email,1888.47,2026-11-10
+CUST-0165,Morgan Miller,2025-08-22,West,SMB,Email,880.9,2026-11-17
+CUST-0166,Sam Jenkins,2025-08-29,Central,Mid-Market,Email,1499.92,2026-11-10
+CUST-0167,Taylor Smith,2025-12-12,South,Consumer,Email,1047.23,2026-11-16
+CUST-0168,Emma Rostova,2025-11-13,West,Mid-Market,Paid Social,904.58,2026-11-17
+CUST-0169,Riley Jenkins,2025-08-11,West,Consumer,Direct,1297.67,2026-11-16
+CUST-0170,Chloe Kowalski,2025-12-22,Central,Consumer,Direct,1091.07,2026-11-09
+CUST-0171,Elena Rostova,2025-05-31,Central,Mid-Market,Organic Search,3127.93,2026-11-09
+CUST-0172,Riley Miller,2025-07-30,East,Mid-Market,Direct,1687.8,2026-11-07
+CUST-0173,James Williams,2025-11-14,East,SMB,Affiliate,1981.03,2026-11-21
+CUST-0174,Sam O'Connor,2025-08-25,Central,SMB,Direct,676.19,2026-11-19
+CUST-0175,Chloe Patel,2025-12-13,East,Enterprise,Paid Social,723.44,2026-11-12
+CUST-0176,Olivia Patel,2025-11-24,South,SMB,Email,1342.15,2026-11-18
+CUST-0177,Avery Mueller,2025-07-16,South,Enterprise,Email,2475.43,2026-11-13
+CUST-0178,Olivia Johnson,2025-10-22,Central,Consumer,Paid Social,982.86,2026-11-17
+CUST-0179,Alex Williams,2025-05-21,West,SMB,Direct,2323.51,2026-11-15
+CUST-0180,James Garcia,2025-05-27,East,SMB,Paid Social,622.44,2026-11-12
+CUST-0181,Riley Mueller,2025-11-14,Central,SMB,Organic Search,996.7,2026-10-23
+CUST-0182,Morgan Rostova,2025-06-08,South,Enterprise,Paid Social,1178.73,2026-11-06
+CUST-0183,Sam Jenkins,2025-06-01,Central,SMB,Organic Search,1251.43,2026-11-12
+CUST-0184,Pat Bennett,2025-10-04,Central,SMB,Paid Social,1345.92,2026-11-20
+CUST-0185,Chris Kim,2025-09-04,Central,SMB,Paid Social,2292.75,2026-11-04
+CUST-0186,Morgan Jones,2025-02-08,East,Consumer,Organic Search,1203.07,2026-10-12
+CUST-0187,Sarah Davis,2025-07-07,West,Consumer,Direct,2713.68,2026-11-13
+CUST-0188,Casey Davis,2025-03-05,South,Mid-Market,Paid Social,721.81,2026-11-15
+CUST-0189,Olivia Williams,2025-11-23,Central,Enterprise,Organic Search,1124.97,2026-11-21
+CUST-0190,Noah Vance,2025-11-14,Central,Consumer,Organic Search,748.37,2026-11-15
+CUST-0191,Taylor Jones,2025-12-25,Central,SMB,Direct,1090.05,2026-11-18
+CUST-0192,Sam Rostova,2025-01-20,Central,Consumer,Direct,1489.45,2026-11-10
+CUST-0193,Morgan O'Connor,2025-10-03,East,Mid-Market,Paid Social,652.85,2026-11-20
+CUST-0194,Emma Brown,2025-10-28,East,Consumer,Direct,384.49,2026-11-03
+CUST-0195,Noah Martinez,2025-07-28,Central,Enterprise,Paid Social,1323.26,2026-11-15
+CUST-0196,Pat Jones,2025-08-16,East,Consumer,Direct,1859.32,2026-11-10
+CUST-0197,Marcus Davis,2025-11-27,Central,Enterprise,Paid Social,1308.99,2026-11-17
+CUST-0198,Pat Chen,2025-08-21,West,SMB,Affiliate,548.1,2026-11-21
+CUST-0199,Alex Rostova,2025-06-20,East,Consumer,Affiliate,772.17,2026-11-04
+CUST-0200,Pat Jenkins,2025-10-11,East,SMB,Organic Search,2028.52,2026-11-13
+CUST-0201,Elena Bennett,2025-11-02,West,Mid-Market,Organic Search,1209.33,2026-11-18
+CUST-0202,Sam Davis,2025-05-09,East,Enterprise,Direct,2719.89,2026-11-12
+CUST-0203,Sam Vance,2025-07-03,East,SMB,Direct,4412.65,2026-11-21
+CUST-0204,Chris Kim,2025-01-27,East,SMB,Affiliate,1844.75,2026-11-18
+CUST-0205,Morgan Jenkins,2025-09-01,South,Consumer,Affiliate,807.47,2026-11-09
+CUST-0206,Olivia Chen,2025-08-20,East,Consumer,Direct,1175.74,2026-11-03
+CUST-0207,Liam Patel,2025-08-23,West,Enterprise,Email,1178.23,2026-11-17
+CUST-0208,Sarah Brown,2025-12-18,West,SMB,Email,1773.37,2026-11-21
+CUST-0209,Taylor Jenkins,2025-06-14,East,Enterprise,Paid Social,1178.05,2026-11-12
+CUST-0210,James Rodriguez,2025-10-08,Central,Mid-Market,Affiliate,1704.0,2026-11-10
+CUST-0211,Liam Patel,2025-08-21,South,Enterprise,Direct,111.0,2026-11-02
+CUST-0212,Emma Mueller,2025-08-09,South,Consumer,Email,1863.29,2026-11-07
+CUST-0213,Elena Jones,2025-07-24,South,SMB,Paid Social,488.58,2026-11-11
+CUST-0214,David Smith,2025-12-07,Central,Mid-Market,Organic Search,1664.03,2026-11-16
+CUST-0215,Noah Jenkins,2025-02-16,West,Enterprise,Direct,2869.18,2026-11-18
+CUST-0216,Marcus Bennett,2025-10-12,West,SMB,Affiliate,1452.25,2026-11-17
+CUST-0217,Emma Smith,2025-12-10,West,SMB,Email,2609.15,2026-11-15
+CUST-0218,Jordan Patel,2025-11-04,Central,Mid-Market,Affiliate,2562.76,2026-11-21
+CUST-0219,Liam Mueller,2025-03-21,South,Mid-Market,Direct,983.2,2026-11-06
+CUST-0220,Marcus Davis,2025-07-08,West,Consumer,Affiliate,2010.55,2026-11-21
+CUST-0221,Riley Brown,2025-10-15,West,SMB,Paid Social,655.96,2026-10-23
+CUST-0222,Alex Kowalski,2025-05-20,Central,Consumer,Paid Social,854.61,2026-11-02
+CUST-0223,Alex Kowalski,2025-03-15,South,Enterprise,Direct,3088.46,2026-11-20
+CUST-0224,Taylor Miller,2025-04-21,South,SMB,Paid Social,1943.42,2026-11-13
+CUST-0225,Chris Johnson,2025-06-09,Central,Consumer,Affiliate,1499.94,2026-11-20
+CUST-0226,James Jenkins,2025-01-27,East,Mid-Market,Affiliate,843.95,2026-11-21
+CUST-0227,Jordan Jenkins,2025-05-20,South,SMB,Email,2218.07,2026-11-09
+CUST-0228,James Jones,2025-08-01,Central,Mid-Market,Affiliate,4171.28,2026-11-19
+CUST-0229,Morgan Johnson,2025-08-09,West,Mid-Market,Affiliate,585.57,2026-11-20
+CUST-0230,Noah Miller,2025-12-08,Central,Enterprise,Email,884.24,2026-11-09
+CUST-0231,James Rostova,2025-01-04,East,Mid-Market,Organic Search,612.57,2026-11-15
+CUST-0232,Sam Kim,2025-05-29,Central,Enterprise,Email,1211.45,2026-11-19
+CUST-0233,David Kowalski,2025-03-08,South,SMB,Organic Search,3706.83,2026-11-18
+CUST-0234,Liam Davis,2025-12-09,Central,Enterprise,Direct,5919.95,2026-11-16
+CUST-0235,David Vance,2025-08-24,West,Consumer,Affiliate,813.39,2026-11-06
+CUST-0236,David Rodriguez,2025-07-27,South,Mid-Market,Email,378.2,2026-11-11
+CUST-0237,Alex Smith,2025-03-29,South,Consumer,Paid Social,1009.15,2026-11-12
+CUST-0238,Taylor Brown,2025-02-24,East,SMB,Email,1358.23,2026-11-08
+CUST-0239,Liam Jenkins,2025-07-22,Central,SMB,Organic Search,172.35,2026-11-08
+CUST-0240,Elena Kowalski,2025-02-09,West,SMB,Organic Search,691.59,2026-11-16
+CUST-0241,Marcus Johnson,2025-11-27,East,Mid-Market,Organic Search,3445.47,2026-11-01
+CUST-0242,Casey Mueller,2025-03-30,East,Consumer,Direct,1170.98,2026-11-17
+CUST-0243,Chris Garcia,2025-08-26,South,SMB,Affiliate,1071.56,2026-11-02
+CUST-0244,James Smith,2025-11-18,Central,Mid-Market,Direct,1032.38,2026-11-20
+CUST-0245,Noah Jones,2025-11-20,Central,Consumer,Affiliate,1275.76,2026-11-13
+CUST-0246,Jordan Johnson,2025-09-17,West,Mid-Market,Email,360.98,2026-11-20
+CUST-0247,Jordan Rostova,2025-07-08,Central,Enterprise,Direct,803.56,2026-11-17
+CUST-0248,James Martinez,2025-09-17,South,SMB,Affiliate,1785.3,2026-11-16
+CUST-0249,Jordan Jones,2025-10-20,East,Mid-Market,Email,728.29,2026-11-20
+CUST-0250,Liam Bennett,2025-02-01,South,Enterprise,Paid Social,913.54,2026-11-13
+CUST-0251,Taylor Miller,2025-11-27,East,Enterprise,Email,1099.25,2026-11-14
+CUST-0252,Chloe Miller,2025-09-25,East,Mid-Market,Paid Social,1811.44,2026-11-21
+CUST-0253,Sarah Brown,2025-06-23,West,Consumer,Paid Social,447.07,2026-10-11
+CUST-0254,Taylor Smith,2025-02-18,South,Mid-Market,Affiliate,1299.68,2026-11-13
+CUST-0255,Sam Smith,2025-02-11,East,Consumer,Paid Social,1558.98,2026-10-27
+CUST-0256,Sarah Bennett,2025-11-01,West,Mid-Market,Email,3382.08,2026-11-17
+CUST-0257,Elena Bennett,2025-12-10,West,SMB,Email,213.6,2026-11-15
+CUST-0258,Liam Johnson,2025-01-10,Central,Mid-Market,Organic Search,1214.76,2026-11-11
+CUST-0259,Elena Garcia,2025-04-09,East,Consumer,Organic Search,2448.2,2026-11-18
+CUST-0260,Taylor Patel,2025-02-21,West,SMB,Affiliate,1987.08,2026-11-13
+CUST-0261,Sam Martinez,2025-07-12,East,Mid-Market,Affiliate,604.68,2026-11-10
+CUST-0262,Chris Jones,2025-01-23,South,Mid-Market,Organic Search,815.1,2026-11-16
+CUST-0263,Chloe Martinez,2025-05-26,South,Mid-Market,Organic Search,1621.4,2026-11-03
+CUST-0264,Avery Garcia,2025-04-10,Central,SMB,Affiliate,445.58,2026-11-06
+CUST-0265,Chloe Jones,2025-05-25,South,SMB,Email,578.27,2026-10-02
+CUST-0266,Chris Mueller,2025-11-06,East,Consumer,Direct,1999.92,2026-11-04
+CUST-0267,Noah Johnson,2025-10-11,West,SMB,Affiliate,1761.1,2026-10-19
+CUST-0268,Morgan Patel,2025-02-12,East,Mid-Market,Affiliate,2997.09,2026-11-20
+CUST-0269,Sam Brown,2025-02-16,East,Consumer,Paid Social,961.39,2026-11-09
+CUST-0270,Alex Brown,2025-01-28,South,SMB,Organic Search,425.27,2026-10-29
+CUST-0271,Sarah Jenkins,2025-07-11,East,Enterprise,Direct,320.97,2026-11-15
+CUST-0272,Elena Bennett,2025-03-12,West,Mid-Market,Email,2630.75,2026-11-19
+CUST-0273,Sam Garcia,2025-08-18,West,Consumer,Direct,1213.22,2026-11-04
+CUST-0274,Casey Mueller,2025-03-18,South,Enterprise,Paid Social,1980.91,2026-11-21
+CUST-0275,Riley Patel,2025-03-04,West,Mid-Market,Affiliate,2501.38,2026-11-17
+CUST-0276,Chloe Jenkins,2025-02-26,South,SMB,Direct,884.6,2026-11-21
+CUST-0277,Liam Rodriguez,2025-05-04,East,Mid-Market,Direct,2887.89,2026-11-21
+CUST-0278,James Johnson,2025-05-04,South,Mid-Market,Direct,2017.21,2026-11-18
+CUST-0279,Liam Johnson,2025-02-04,West,Mid-Market,Email,2019.98,2026-11-04
+CUST-0280,Jordan Williams,2025-07-11,Central,SMB,Paid Social,1285.98,2026-11-16
+CUST-0281,Taylor Johnson,2025-05-04,West,Consumer,Paid Social,1450.54,2026-11-15
+CUST-0282,Sam Rostova,2025-06-30,Central,Consumer,Organic Search,1053.78,2026-11-05
+CUST-0283,Chloe Garcia,2025-11-20,East,Consumer,Direct,1430.25,2026-11-21
+CUST-0284,Chloe Rostova,2025-05-31,East,Enterprise,Organic Search,1445.99,2026-10-30
+CUST-0285,Jordan Smith,2025-06-08,South,Consumer,Affiliate,2213.94,2026-11-13
+CUST-0286,Noah Kim,2025-01-19,East,Mid-Market,Direct,1202.26,2026-11-20
+CUST-0287,Elena Kim,2025-03-05,Central,SMB,Email,1348.5,2026-11-15
+CUST-0288,Chloe Williams,2025-06-23,East,SMB,Email,1829.04,2026-11-01
+CUST-0289,Marcus Miller,2025-05-17,West,SMB,Direct,409.97,2026-10-19
+CUST-0290,David Martinez,2025-04-03,Central,Mid-Market,Direct,595.66,2026-11-17
+CUST-0291,Elena Patel,2025-06-06,South,SMB,Email,349.0,2026-10-25
+CUST-0292,Chris Jones,2025-06-29,South,Enterprise,Paid Social,2363.91,2026-11-14
+CUST-0293,James Brown,2025-05-21,West,Enterprise,Email,2005.75,2026-11-17
+CUST-0294,Marcus Miller,2025-12-14,East,Consumer,Organic Search,1423.86,2026-11-13
+CUST-0295,James Jones,2025-01-18,East,Enterprise,Paid Social,1612.84,2026-11-21
+CUST-0296,Marcus Williams,2025-10-18,West,SMB,Email,1604.27,2026-11-20
+CUST-0297,Marcus Johnson,2025-08-16,West,SMB,Affiliate,692.22,2026-11-07
+CUST-0298,Marcus Williams,2025-06-10,Central,Mid-Market,Direct,1823.94,2026-11-15
+CUST-0299,Alex Kowalski,2025-09-13,South,Consumer,Direct,521.77,2026-11-11
+CUST-0300,Casey Kim,2025-12-27,South,Mid-Market,Affiliate,798.57,2026-11-06
