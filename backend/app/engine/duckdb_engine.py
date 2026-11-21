@@ -48,10 +48,14 @@ class DuckDBEngine:
             raise ValueError(f"Security Violation: Only read-only analytical queries are permitted. Blocked token: {first_token}")
 
         start_time = time.perf_counter()
-        if params:
-            df = self.conn.execute(clean_sql, params).df()
-        else:
-            df = self.conn.execute(clean_sql).df()
+        cursor = self.conn.cursor()
+        try:
+            if params:
+                df = cursor.execute(clean_sql, params).df()
+            else:
+                df = cursor.execute(clean_sql).df()
+        finally:
+            cursor.close()
         elapsed_ms = round((time.perf_counter() - start_time) * 1000, 2)
 
         meta = {
